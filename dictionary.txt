@@ -9,3 +9,5 @@ Mehlhase - flour bunny
 gebaeck - pastries
 baeckerei - bakery
 hund - dog
+Freunde - friends
+Biergarten - beer garden
